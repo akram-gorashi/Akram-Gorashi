@@ -35,8 +35,8 @@ const akram = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
+        backEnd: ["nodejs", "express", "python", "Django"],
+        fronEnd: ["angular", "vue"],
         mobileApp: ["ionic","angular"],
         database: ["mongo","mySql, sql server, postgress"],
         devOps: ["AWS", "Nginx"],
