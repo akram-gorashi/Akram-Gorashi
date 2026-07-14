@@ -114,22 +114,6 @@ const akram = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=akram-gorashi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-  height="180"
-  alt="Akram GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram-gorashi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-  height="180"
-  alt="Akram Top Languages"
-/>
-
 </div>
 <p align="center">
   <img
